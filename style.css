@@ -183,11 +183,11 @@ html {
   border: 2px solid var(--outline);
 }
 
-.btn-link{
+.btn:hover .btn-link{
   text-decoration: none;
   color: #fff;
 }
-.btn-link:hover{
+.btn:hover{
   text-decoration: none;
   color: #000;
 }
